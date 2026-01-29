@@ -69,7 +69,7 @@ const Hero: React.FC<HeroProps> = ({ onExploreAI }) => {
             <span className="text-[10px] font-extrabold uppercase tracking-[0.3em] text-gunmetal/70">Iqra's portfolio 2026</span>
           </div>
 
-          <h1 className="text-[30px] md:text-[50px] font-black text-gunmetal leading-[1.1] tracking-tight break-words max-w-full">
+          <h1 className="text-[35px] md:text-[50px] font-black text-gunmetal leading-[1.1] tracking-tight break-words max-w-full">
             Building Smarter <br />
             <span className="text-primary italic">Digital Systems.</span>
           </h1>
